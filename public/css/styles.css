@@ -1,0 +1,13 @@
+body{
+    background-color: #EAC926;
+    color: #03264C}
+
+p{font-size: 12px;}
+.searchbar{background-color: white;
+color: #666;
+align-items: center;}
+.titulo{font-size: 12px;}
+.precios{font-size: 18px;}
+.descuentos{font-size: 16px;}
+.descripciones{font-size: 16px;}
+
